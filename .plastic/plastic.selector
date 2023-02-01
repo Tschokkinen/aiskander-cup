@@ -1,0 +1,4 @@
+repository "Aiskänder Cup@tschokkinen@cloud"
+  path "/"
+    br "/main"
+    co "/main"
